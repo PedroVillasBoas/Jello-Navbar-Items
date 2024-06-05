@@ -29,9 +29,9 @@ The project consists of the following files:
 Feel free to contribute to this project. To contribute:
 
 1. Fork this repository.
-2. Create a new branch (git checkout -b feature/new-feature).
-3. Make your modifications and commit (git commit -am 'Add new feature').
-4. Push to the branch (git push origin feature/new-feature).
+2. Create a new branch (`git checkout -b feature/new-feature`).
+3. Make your modifications and commit (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature/new-feature`).
 5. Create a new Pull Request.
 
 ## License
